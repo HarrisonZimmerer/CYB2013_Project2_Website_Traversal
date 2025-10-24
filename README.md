@@ -1,4 +1,4 @@
-# CYB-2123 Project 02 — Website Traversal
+# CYB-2013 Project 02 — Website Traversal
 ## Objective
 
 The goal of this project was to develop a web crawler and link traversal program in Python to explore internal hyperlinks on a website.  
